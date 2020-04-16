@@ -1,3 +1,5 @@
 Este es un archivo de prueba 
 
-se verificará el funcionamiento de un archivo en git junto a sus comandos
+Se verificará el funcionamiento de un archivo en git junto a sus comandos.
+
+Se continúan realizando cambios
